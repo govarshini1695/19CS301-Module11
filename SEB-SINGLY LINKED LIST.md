@@ -1,6 +1,6 @@
 SINGLY LINKED LIST-DELETE THE FIRST ELEMENT
 
-AIM:
+AIM: 
 To write the python program to delete the first element in the given linked list.
 
 ALGORITHM:
